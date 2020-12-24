@@ -1,11 +1,12 @@
-# xmas-vs-halloween
+# Xmas vs Halloween
+
 ## Santa must fight against Halloween ghouls! 
 
 ### Built with Phaser.js 
 
 ### See if you can beat my high score.
 
-#### Live Link: 
+#### Live Link: https://minjoomagic.github.io/xmas-vs-halloween/
 
 ![alt text](https://user-images.githubusercontent.com/45193420/103103705-eb796080-45f0-11eb-9a47-2fcbd7c8876d.png)
 
